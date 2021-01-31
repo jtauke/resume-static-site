@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "https://resume.tauke.net"
+baseURL = "https://resume.tauke.net/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
@@ -26,7 +26,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Joe Tauke"
         tagline = "IT Supervisor"
-        avatar = "avatar.png"
+        avatar = "/avatar.png"
 
 
 
