@@ -24,8 +24,8 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.profile]
         enable = true
-        name = "Simon Doe"
-        tagline = "Senior Software Engineer"
+        name = "Joe Tauke"
+        tagline = "IT Supervisor"
         avatar = "avatar.png"
 
 
@@ -36,7 +36,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "New York"
+        location = "Granger"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
