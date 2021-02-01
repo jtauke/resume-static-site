@@ -26,7 +26,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
         name = "Joe Tauke"
         tagline = "IT Supervisor"
-        avatar = "/avatar.png"
+        avatar = "avatar.png"
 
 
 
@@ -41,15 +41,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.contact.list]]
         icon = "fas fa-phone-square"
         url = "tel:#"
-        text = "0123 4567 890"
+        text = "515-599-1625"
         [[params.contact.list]]
         icon = "fas fa-envelope-square"
         url = "mailto:#"
-        text = "simon.doe@yourwebsite.com"
+        text = "jtauke@gmail.com"
         [[params.contact.list]]
         icon = "fas fa-globe"
         url = "#"
-        text = "www.yourwebsite.com"
+        text = "resume.tauke.net"
 
 
 
@@ -95,14 +95,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-    [params.education]
+    [params.certifications]
         enable = true
 
-        [[params.education.list]]
+        [[params.certifications.list]]
         degree = "MSc in Computer Science"
         university = "University College London"
         dates = "2010 - 2011"
-        [[params.education.list]]
+        [[params.certifications.list]]
         degree = "BSc Maths and Physics"
         university = "Imperial College London"
         dates = "2007 - 2010"
