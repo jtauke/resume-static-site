@@ -110,7 +110,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-    [params.certifications]
+    [params.awards]
         enable = true
 
         [[params.awards.list]]
