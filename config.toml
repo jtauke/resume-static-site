@@ -180,16 +180,18 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.experience.list]]
-        title = "Senior Software Engineer"
-        dates = "2019 - Present"
-        company = "Google"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis."
+        title = "Supervisor/Systems Engineer"
+        dates = "2017 - Present"
+        company = "Aureon"
+        details = ""
         [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
+        details = "Supervise and coach a team of three technical consultants"
         [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+        details = "Approval of technician timesheets"
         [[params.experience.list.items]]
-        details = "Etiam ultricies nisi vel augue."
+        details = "Collaborate with other operations supervisors to produce a cohesive team"
+      
+
 
         [[params.experience.list]]
         title = "Lead Software Developer"
