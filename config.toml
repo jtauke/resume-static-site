@@ -138,9 +138,6 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.languages.list]]
         name = "English"
         level = "Native"
-        [[params.languages.list]]
-        name = "Spanish"
-        level = "Professional"
 
 
 
