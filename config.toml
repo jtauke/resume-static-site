@@ -99,13 +99,9 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.education.list]]
-        degree = "MSc in Computer Science"
-        university = "University College London"
-        dates = "2010 - 2011"
-        [[params.education.list]]
-        degree = "BSc Maths and Physics"
-        university = "Imperial College London"
-        dates = "2007 - 2010"
+        degree = "BS Management Information Systems"
+        university = "Iowa State University"
+        dates = "2008 - 2012"
 
 
 
@@ -118,14 +114,17 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.awards.list]]
-        name = "Award Lorem Ipsum"
-        body = "Microsoft lorem ipsum"
+        name = "Microsoft Certified: Azure Solutions Architect Expert"
+        body = "Microsoft"
+        date = "2021"
+        [[params.awards.list]]
+        name = "Microsoft Certified: Azure Administrator Associate"
+        body = "Microsoft"
         date = "2019"
         [[params.awards.list]]
-        name = "Award Donec Sodales"
-        body = "Oracle Aenean"
-        date = "2017"
-
+        name = "AWS Solutions Architect Associate"
+        body = "Amazon"
+        date = "2018"
 
 
 
