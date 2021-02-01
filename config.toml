@@ -95,14 +95,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-    [params.certifications]
+    [params.education]
         enable = true
 
-        [[params.certifications.list]]
+        [[params.education.list]]
         degree = "MSc in Computer Science"
         university = "University College London"
         dates = "2010 - 2011"
-        [[params.certifications.list]]
+        [[params.education.list]]
         degree = "BSc Maths and Physics"
         university = "Imperial College London"
         dates = "2007 - 2010"
@@ -114,14 +114,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
 
 
-    [params.awards]
+    [params.certifications]
         enable = true
 
-        [[params.awards.list]]
+        [[params.certifications.list]]
         name = "Award Lorem Ipsum"
         body = "Microsoft lorem ipsum"
         date = "2019"
-        [[params.awards.list]]
+        [[params.certifications.list]]
         name = "Award Donec Sodales"
         body = "Oracle Aenean"
         date = "2017"
