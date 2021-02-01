@@ -36,7 +36,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.contact]
         enable = true
-        location = "Granger"
+        location = "Des Moines, IA"
 
         [[params.contact.list]]
         icon = "fas fa-phone-square"
