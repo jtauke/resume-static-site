@@ -4,7 +4,7 @@ baseURL = "https://resume.tauke.net/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"
-googleAnalytics = "UA-XXXXXXX-Y"
+googleAnalytics = "UA-189272568-2"
 
 
 
