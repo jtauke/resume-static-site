@@ -46,10 +46,10 @@ googleAnalytics = "UA-189272568-2"
         icon = "fas fa-envelope-square"
         url = "mailto:#"
         text = "jtauke@gmail.com"
-        [[params.contact.list]]
-        icon = "fas fa-globe"
-        url = "#"
-        text = "resume.tauke.net"
+      #  [[params.contact.list]]
+      #  icon = "fas fa-globe"
+      #  url = "#"
+      #  text = "resume.tauke.net"
 
 
 
