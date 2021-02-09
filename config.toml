@@ -125,11 +125,14 @@ googleAnalytics = "UA-XXXXXXX-Y"
         name = "AWS Solutions Architect Associate"
         body = "Amazon"
         date = "2018"
-
-
-
-
-
+        [[params.awards.list]]
+        name = "Specialist – Implementation Engineer, SC Series"
+        body = "Dell Technologies"
+        date = "2019"
+        [[params.awards.list]]
+        name = "VMware Certified Professional 6.5 – Data Center Virtualization"
+        body = "VMware"
+        date = "2017"
 
 
     [params.languages]
