@@ -238,7 +238,7 @@ googleAnalytics = "UA-189272568-2"
         meta = "Open Source"
         tagline = "While looking to further leverage Ansible in orchestrating windows server deployment, found that the win_domain module lacked a needed functionality.  Was able to modify the code and submit a pull request that was merged into the main Ansible codebase."
         [[params.projects.list.items]]
-        details = https://github.com/ansible/ansible/pull/39084
+        details = "https://github.com/ansible/ansible/pull/39084"
 
 
 
