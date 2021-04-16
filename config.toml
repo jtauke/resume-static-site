@@ -196,14 +196,14 @@ googleAnalytics = "UA-189272568-2"
         title = "Supervisor/Systems Engineer"
         dates = "2017 - Present"
         company = "Aureon"
-        details = "Responsible for supervising three consultants, along with the items that entails.  Acted as a mentor for the team, approved time sheets and expenses, annual reviews, assisted with goal setting.  In addition to supervisory duties I maintained a project workload of server/san installs and any associated migrations.  Also acted as an L3 escalation point within the wider team."
+        details = "Responsible for supervising three consultants, along with the items that entails.  Acted as a mentor for the team, approved time sheets and expenses, annual reviews, assisted with goal setting.  In addition to supervisory duties I maintained a project workload of server/SAN installs and any associated migrations.  Also acted as an L3 escalation point within the wider team."
 
 
         [[params.experience.list]]
         title = "Technical Consultant II"
         dates = "2016 - 2017"
         company = "Aureon"
-        details = "Provided on-site technical support to assigned clients, while also completing customer project within time/budget constraints.  Worked heavily on SAN implementations (and quickly achieved a need certification).  Acted as Technical Account Manager for four customers, providing them with a technical point of contact for planning and service related items."
+        details = "Provided on-site technical support to assigned clients, while also completing customer project within time/budget constraints.  Worked heavily on SAN implementations, and quickly acheieved the needed certification to perform SAN installs.  Acted as Technical Account Manager for four customers, providing them with a technical point of contact for planning and service related items."
       #  [[params.experience.list.items]]
       #  details = "Lorem ipsum dolor sit amet, consectetuer."
       #  [[params.experience.list.items]]
